@@ -25,9 +25,9 @@ external:                  # shows a footer with social links - for available ic
   - {title: Github, icon: github, url: "https://github.com/vuthuyduong"}
   - {title: Twitter, icon: twitter, url: "https://twitter.com/Duong_Thuy_Vu"}
   - {title: Google scholar, icon: google, url: "https://scholar.google.com/citations?user=ugNE8zUAAAAJ&hl=en"}
-  - {title: ResearchGate, icon: ResearchGate, url: "https://www.researchgate.net/profile/Duong-Vu-43"}
+  - {title: ResearchGate, icon: researchgate, url: "https://www.researchgate.net/profile/Duong-Vu-43"}
   - {title: Orcid, icon: orcid, url: "https://orcid.org/0000-0001-7960-2765"}
-  - {title: LinkedIn, icon: LinkedIn, url: "https://www.linkedin.com/in/duong-vu-9a6b3bb7/?originalSubdomain=nl"}
+  - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/duong-vu-9a6b3bb7/?originalSubdomain=nl"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
