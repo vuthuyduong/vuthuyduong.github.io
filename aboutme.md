@@ -1,6 +1,6 @@
 ---
 title:  "About me"
-layout: page
+layout: post
 ---
 ![Portrait](https://github.com/vuthuyduong/vuthuyduong.github.io/blob/master/portrait_DuongVu_original.jpg)
 
