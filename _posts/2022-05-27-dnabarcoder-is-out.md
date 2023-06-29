@@ -8,4 +8,5 @@ Our paper [Dnabarcoder: An open-source software package for analysing and predic
 Dnabarcoder can be used to calculate similarity cutoffs for sequence identification for different clades of fungi and other organisms. The source code of the dnabarcoder is available at my github page:[https://github.com/vuthuyduong/dnabarcoder](https://github.com/vuthuyduong/dnabarcoder).
 
 Citation:
+
 Duong Vu, R. Henrik Nilsson, Gerard J.M. Verkley (2022). dnabarcoder: an open-source software package for analyzing and predicting DNA sequence similarity cut-offs for fungal sequence identification. Molecular Ecology Resources. https://doi.org/10.1111/1755-0998.13651
