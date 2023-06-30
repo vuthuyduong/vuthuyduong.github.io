@@ -1,5 +1,5 @@
 ---
-title:  "Applying the deep learning approach for fungal identification"
+title:  "Applying the deep learning approach for fungal classification"
 layout: post
 categories: media
 ---
