@@ -4,8 +4,7 @@ layout: post
 categories: media
 ---
 
-![VASTVisit2023_DV_photo](https://vuthuyduong.github.io/photos/VAST.jpg)
-
+<img src="https://vuthuyduong.github.io/photos/VAST.jpg" height="500">
 
 It was a great honor to receive this distinguished delegation from the [Vietnam Academy of Sciences and Technology] (https://vast.gov.vn/web/vietnam-academy-of-science-and-technology) (VAST), led by Prof Chu Hoang Ha, 
 Vice-President of VAST to visit the [Westerdijk Institute](https://wi.knaw.nl/) yesterday. Looking forward to our collaboration!
