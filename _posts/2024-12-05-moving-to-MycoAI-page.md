@@ -1,5 +1,5 @@
 ---
-title:  "Moving to [MycoAI.github.io](https://mycoai.github.io/)"
+title:  "Moving to the MycoAI.github.io page"
 layout: post
 categories: media
 ---
